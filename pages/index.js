@@ -78,7 +78,16 @@ const DungeonInfo = ({ dungeon }) => {
   const backgroundColor = getTierColor(dungeon.Solo_Tier || dungeon.Glyph_Tier);
 
   return (
-    <Card variant="outlined" sx={{ mb: 2, backgroundColor: backgroundColor }}>
+    <Card
+      variant="outlined"
+      sx={{
+        mb: 2,
+        backgroundColor: backgroundColor,
+        border: "1px solid", // Adds a border
+        borderColor: "rgba(255, 255, 255, 0.12)", // Border color for contrast
+        boxShadow: "0 2px 4px 0 rgba(0,0,0,0.2)", // Optional shadow for depth
+      }}
+    >
       <CardContent>
         <Typography variant="h5" component="div">
           {dungeon.Dungeon}
