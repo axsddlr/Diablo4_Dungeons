@@ -1,0 +1,142 @@
+[
+  {
+    "Dungeon": "Sirroco Caverns",
+    "XP/h": 2.04,
+    "Solo_Rank": 1,
+    "Solo_Tier": "S"
+  },
+  {
+    "Dungeon": "Flooded Depths",
+    "XP/h": 1.93,
+    "Solo_Rank": 2,
+    "Solo_Tier": "S"
+  },
+  { "Dungeon": "Lights Watch", "XP/h": 1.85, "Solo_Rank": 3, "Solo_Tier": "S" },
+  {
+    "Dungeon": "Belfry Zakara",
+    "XP/h": 1.76,
+    "Solo_Rank": 4,
+    "Solo_Tier": "S"
+  },
+  { "Dungeon": "Jalals Vigil", "XP/h": 1.75, "Solo_Rank": 5, "Solo_Tier": "S" },
+  { "Dungeon": "Ghoa Ruins", "XP/h": 1.75, "Solo_Rank": 6, "Solo_Tier": "S" },
+  {
+    "Dungeon": "Carrion Fields",
+    "XP/h": 1.59,
+    "Solo_Rank": 7,
+    "Solo_Tier": "A"
+  },
+  { "Dungeon": "Buried Halls", "XP/h": 1.59, "Solo_Rank": 8, "Solo_Tier": "A" },
+  {
+    "Dungeon": "Vault of the Forsaken",
+    "XP/h": 1.52,
+    "Solo_Rank": 9,
+    "Solo_Tier": "A"
+  },
+  {
+    "Dungeon": "Sanguine Chapel",
+    "XP/h": 1.5,
+    "Solo_Rank": 10,
+    "Solo_Tier": "A"
+  },
+  {
+    "Dungeon": "Grinning Labyrinth",
+    "XP/h": 1.41,
+    "Solo_Rank": 11,
+    "Solo_Tier": "A"
+  },
+  {
+    "Dungeon": "Deserted Underpass",
+    "XP/h": 1.38,
+    "Solo_Rank": 12,
+    "Solo_Tier": "A"
+  },
+  {
+    "Dungeon": "Forbidden City",
+    "XP/h": 1.35,
+    "Solo_Rank": 13,
+    "Solo_Tier": "B"
+  },
+  {
+    "Dungeon": "Steadfast Barracks",
+    "XP/h": 1.33,
+    "Solo_Rank": 14,
+    "Solo_Tier": "B"
+  },
+  {
+    "Dungeon": "Broken Bulwark",
+    "XP/h": 1.31,
+    "Solo_Rank": 15,
+    "Solo_Tier": "B"
+  },
+  { "Dungeon": "Lubans Rest", "XP/h": 1.3, "Solo_Rank": 16, "Solo_Tier": "B" },
+  { "Dungeon": "Conclave", "XP/h": 1.3, "Solo_Rank": 17, "Solo_Tier": "B" },
+  {
+    "Dungeon": "Tormented Ruins",
+    "XP/h": 1.3,
+    "Solo_Rank": 18,
+    "Solo_Tier": "B"
+  },
+  { "Dungeon": "Oldstones", "XP/h": 1.28, "Solo_Rank": 19, "Solo_Tier": "C" },
+  {
+    "Dungeon": "Bloodsoaked Crag",
+    "XP/h": 1.27,
+    "Solo_Rank": 20,
+    "Solo_Tier": "C"
+  },
+  {
+    "Dungeon": "Fetid Mausoleum",
+    "XP/h": 1.25,
+    "Solo_Rank": 21,
+    "Solo_Tier": "C"
+  },
+  {
+    "Dungeon": "Crusaders Cathedral",
+    "XP/h": 1.23,
+    "Solo_Rank": 22,
+    "Solo_Tier": "C"
+  },
+  { "Dungeon": "Inferno", "XP/h": 1.2, "Solo_Rank": 23, "Solo_Tier": "C" },
+  {
+    "Dungeon": "Renegades Retreat",
+    "XP/h": 1.19,
+    "Solo_Rank": 24,
+    "Solo_Tier": "C"
+  },
+  {
+    "Dungeon": "Whispering Vault",
+    "XP/h": 1.18,
+    "Solo_Rank": 25,
+    "Solo_Tier": "C"
+  },
+  {
+    "Dungeon": "Sepulcher of the Forsworn",
+    "XP/h": 1.17,
+    "Solo_Rank": 26,
+    "Solo_Tier": "C"
+  },
+  {
+    "Dungeon": "Leviathans Maw",
+    "XP/h": 1.09,
+    "Solo_Rank": 27,
+    "Solo_Tier": "C"
+  },
+  {
+    "Dungeon": "Heathens Keep",
+    "XP/h": 0.92,
+    "Solo_Rank": 28,
+    "Solo_Tier": "D"
+  },
+  {
+    "Dungeon": "Endless Gates",
+    "XP/h": 0.88,
+    "Solo_Rank": 29,
+    "Solo_Tier": "D"
+  },
+  {
+    "Dungeon": "Hallowed Ossuary",
+    "XP/h": 0.83,
+    "Solo_Rank": 30,
+    "Solo_Tier": "D"
+  }
+]

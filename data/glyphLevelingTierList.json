@@ -1,0 +1,162 @@
+[
+  { "Dungeon": "Ghoa Ruins", "Time": 171, "Glyph_Rank": 1, "Glyph_Tier": "S" },
+  {
+    "Dungeon": "Tormented Ruins",
+    "Time": 175,
+    "Glyph_Rank": 2,
+    "Glyph_Tier": "S"
+  },
+  {
+    "Dungeon": "Sirrocco Caverns",
+    "Time": 180,
+    "Glyph_Rank": 3,
+    "Glyph_Tier": "S"
+  },
+  {
+    "Dungeon": "Hallowed Ossuary",
+    "Time": 186,
+    "Glyph_Rank": 4,
+    "Glyph_Tier": "S"
+  },
+  {
+    "Dungeon": "Belfry Zakara",
+    "Time": 200,
+    "Glyph_Rank": 5,
+    "Glyph_Tier": "S"
+  },
+  {
+    "Dungeon": "Lights Watch",
+    "Time": 216,
+    "Glyph_Rank": 6,
+    "Glyph_Tier": "A"
+  },
+  {
+    "Dungeon": "Deserted Underpass",
+    "Time": 216,
+    "Glyph_Rank": 7,
+    "Glyph_Tier": "A"
+  },
+  {
+    "Dungeon": "Flooded Depths",
+    "Time": 216,
+    "Glyph_Rank": 8,
+    "Glyph_Tier": "A"
+  },
+  {
+    "Dungeon": "Crusaders Cathedral",
+    "Time": 219,
+    "Glyph_Rank": 9,
+    "Glyph_Tier": "A"
+  },
+  {
+    "Dungeon": "Forbidden City",
+    "Time": 224,
+    "Glyph_Rank": 10,
+    "Glyph_Tier": "A"
+  },
+  {
+    "Dungeon": "Heathens Keep",
+    "Time": 236,
+    "Glyph_Rank": 11,
+    "Glyph_Tier": "B"
+  },
+  {
+    "Dungeon": "Jalals Vigil",
+    "Time": 238,
+    "Glyph_Rank": 12,
+    "Glyph_Tier": "B"
+  },
+  {
+    "Dungeon": "Broken Bulwark",
+    "Time": 240,
+    "Glyph_Rank": 13,
+    "Glyph_Tier": "B"
+  },
+  {
+    "Dungeon": "Sanguine Chapel",
+    "Time": 243,
+    "Glyph_Rank": 14,
+    "Glyph_Tier": "B"
+  },
+  { "Dungeon": "Inferno", "Time": 253, "Glyph_Rank": 15, "Glyph_Tier": "B" },
+  {
+    "Dungeon": "Vault of the Forsaken",
+    "Time": 265,
+    "Glyph_Rank": 16,
+    "Glyph_Tier": "B"
+  },
+  {
+    "Dungeon": "Renegades Retreat",
+    "Time": 267,
+    "Glyph_Rank": 17,
+    "Glyph_Tier": "B"
+  },
+  {
+    "Dungeon": "Fetid Mausoleum",
+    "Time": 271,
+    "Glyph_Rank": 18,
+    "Glyph_Tier": "B"
+  },
+  {
+    "Dungeon": "Whispering Vault",
+    "Time": 275,
+    "Glyph_Rank": 19,
+    "Glyph_Tier": "B"
+  },
+  {
+    "Dungeon": "Carrion Fields",
+    "Time": 280,
+    "Glyph_Rank": 20,
+    "Glyph_Tier": "C"
+  },
+  {
+    "Dungeon": "Steadfast Barracks",
+    "Time": 290,
+    "Glyph_Rank": 21,
+    "Glyph_Tier": "C"
+  },
+  {
+    "Dungeon": "Leviathans Maw",
+    "Time": 294,
+    "Glyph_Rank": 22,
+    "Glyph_Tier": "C"
+  },
+  { "Dungeon": "Oldstones", "Time": 295, "Glyph_Rank": 23, "Glyph_Tier": "C" },
+  {
+    "Dungeon": "Bloodsoaked Crag",
+    "Time": 303,
+    "Glyph_Rank": 24,
+    "Glyph_Tier": "C"
+  },
+  {
+    "Dungeon": "Grinning Labyrinth",
+    "Time": 312,
+    "Glyph_Rank": 25,
+    "Glyph_Tier": "D"
+  },
+  {
+    "Dungeon": "Endless Gates",
+    "Time": 314,
+    "Glyph_Rank": 26,
+    "Glyph_Tier": "D"
+  },
+  {
+    "Dungeon": "Lubans Rest",
+    "Time": 319,
+    "Glyph_Rank": 27,
+    "Glyph_Tier": "D"
+  },
+  {
+    "Dungeon": "Buried Halls",
+    "Time": 323,
+    "Glyph_Rank": 28,
+    "Glyph_Tier": "D"
+  },
+  { "Dungeon": "Conclave", "Time": 330, "Glyph_Rank": 29, "Glyph_Tier": "D" },
+  {
+    "Dungeon": "Sepulcher of the Forsworn",
+    "Time": 333,
+    "Glyph_Rank": 30,
+    "Glyph_Tier": "D"
+  }
+]
