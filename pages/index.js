@@ -30,13 +30,10 @@ export default function Home() {
     const searchTerm = event.target.value.toLowerCase();
     setSearchTerm(searchTerm);
 
-    const filtered =
-      searchTerm.length >= 3
-        ? dungeonData.filter((dungeon) =>
-            dungeon.Dungeon.toLowerCase().startsWith(searchTerm)
-          )
-        : dungeonData;
-
+    // Filter the data as the user types
+    const filtered = dungeonData.filter((dungeon) =>
+      dungeon.Dungeon.toLowerCase().includes(searchTerm)
+    );
     setFilteredData(filtered);
   };
 
