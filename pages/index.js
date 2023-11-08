@@ -7,6 +7,8 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
+import Footer from "@/components/Footer";
+import Header from "@/components/Header";
 
 // Define a theme for Material-UI components
 const theme = createTheme({
@@ -120,6 +122,7 @@ export default function Home() {
     <ThemeProvider theme={theme}>
       <Container maxWidth="sm">
         <Box sx={{ my: 4 }}>
+          <Header />
           <TextField
             select
             label="Tier List"
@@ -159,6 +162,7 @@ export default function Home() {
               <Typography>No dungeons found.</Typography>
             )}
           </Box>
+          <Footer />
         </Box>
       </Container>
     </ThemeProvider>
