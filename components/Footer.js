@@ -17,7 +17,7 @@ const Footer = () => {
       }}
     >
       <Container maxWidth="sm">
-        <Typography variant="body1">
+        <Typography variant="body1" align="center">
           <Link
             href="https://www.reddit.com/r/diablo4/comments/17cdpak/xp_per_hour_and_nightmare_dungeon_tier_list_for/"
             color="inherit"
