@@ -2,6 +2,7 @@ import React from "react";
 import Link from "@mui/material/Link";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
+import Container from "@mui/material/Container"; // Make sure to add this import
 
 const Footer = () => {
   return (
